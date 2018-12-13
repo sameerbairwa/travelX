@@ -1,5 +1,5 @@
 # travelX
-the project about travel time prediction 
+The project about travel time prediction 
 To run the file: requirements:
 numpy,pandas, matplotlib, skit-learn, csv,xlsxwrite,json
 import time
