@@ -841,8 +841,6 @@ if __name__ == '__main__':
     #print("ok")
     #print(ul_ti)
     #print(ll_ti)
-
-
     #print(time_it)
     simulatorfn(ul_w,ll_w,ul_ti,ll_ti,time_it,day,weather,curr_time)
     csv_from_excel()
