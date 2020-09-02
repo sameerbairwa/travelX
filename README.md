@@ -1,4 +1,7 @@
 # travelX
+## Travel Time Prediction
+The project about travel time prediction of future days. In this project, I used 4
+machine-learning algorithms for travel time prediction and python.
 The project about travel time prediction 		    
 To run the file: requirements:		    
 numpy,pandas, matplotlib, skit-learn, csv,xlsxwrite,json   
